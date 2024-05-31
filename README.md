@@ -3,7 +3,7 @@
 
 >**Note**: RTK QUERY TEMPLATE FOR REACT NATIVE
 
-## Step 1: RTK QUERY
+## Step 1: RTK QUERY - Redux-toolkit
 
 Pull the code from the repository.
 
